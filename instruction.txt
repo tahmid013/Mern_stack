@@ -1,0 +1,8 @@
+(server part)
+1) add new functionality in router
+2) declare function in controllers 
+(client part)
+3)api index add
+4) then move to action
+5) reducers -> add "LIKE"
+6) implement functionality in post
